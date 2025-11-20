@@ -47,8 +47,8 @@
 # i => loop variable 
 
 
-# for i in range(5):
-#                     print(i)
+for i in range(0,5):
+                    print(i) # 0,1,2,3,4
 
 
 
