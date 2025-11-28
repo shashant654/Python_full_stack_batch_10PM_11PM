@@ -1,13 +1,5 @@
-print("Ansh Thakur!")
-print("Sonu")
-print("Ujwal")
-pri("Ravi")
-print("NIraj")
-print("Ajit")
-print("Deewakar")
-print("ANuj")
-print("Aditya")
-
-
-
-# python programming language
+print("Abhisheik")
+print("Kumar")
+print("Singh")
+prin("Python programming")
+print("learning Python")
